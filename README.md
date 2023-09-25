@@ -12,5 +12,12 @@ Currently we envision these chronological types:
     D. Herod Philip II
     E. Agrippa I
     F. Agrippa II
+3. Procurators
+    A. Coponius
+    B. Marcus Ambivulus
+    C. Valerius Gratus
+    D. Pontius Pilate
+    E. Antonius Felix
+    F. Pocius Festus
 3. First Revolt
 4. Second Revolt

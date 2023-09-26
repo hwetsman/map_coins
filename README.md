@@ -23,7 +23,7 @@ Currently we envision these chronological types:
 4. Second Revolt
 
 Places:
-Dura-Europos
+Dura-Europos (lat 34.7487201, long 40.7297969)
 Bellinger, the Excavations at Dura-Europos Conducted by Yale University and the French Academy of Inscriptions and Letters; Final Report, VI: The Coins. Edited by M.I. Rostovtzeff, A.R. Bellinger, F.E. Brown, N.P. Toll, and C.B. Welles. New Haven, CT: Yale University Press, 1949.
 Hashmonean: 36
     A. JH 3
@@ -34,7 +34,7 @@ Herodean: 7
     B. Agrippa I 5
 First Revolt: 4
 
-Qiryat Sefer
+Qiryat Sefer (31.9331585, long 35.043286)
 Bijovsky, Gabriela. “The Coins from Khirbet Badd ʿIsa – Qiryat Sefer.” Pages 243–300 in The Land of Benjamin. Edited by Yitzhak Magen, Donald T. Ariel, Gabriela Bijovsky, Yoav Tzionit, and Orna Sirkis. Jerusalem: Staff Officer of Archaeology – Civil Admi- nistration of Judea and Samaria; Israel Antiquities Authority, 2004.
 Hashmonean: 24
     A. JH 2
@@ -54,8 +54,17 @@ Procurators: 5
     D. Coponius 1
     E. Uncertain 1
     F. VG 1
-
-
 First Revolt: 6
     A. Year 2 6
 Second Revolt: 4
+
+Te'omim Cave (152049/126028)(lat 31.7260785, long 35.0207089)
+Zissu, Boaz, and David Hendin. “Further Remarks on Coins in Circulation during the Bar-Kokhba War: Te’omim Cave and Horvat ‘Ethri Hoards.” Pages 215–28 in Judaea and Rome in Coins: 65 BCE–135 CE; Papers Presented at the International Conference Hosted by Spink, 13th–14th September 2010. Edited by David M. Jacobson and Nikos Kokkinos. London: Institute of Jewish Studies UCL; Spink, 2012.
+1. Hasmonean 1
+2. First Revolt 1
+3. Second Revolt 85
+
+Horvat ‘Ethri (lat 31.649236N, long 34.972262E)
+Zissu, Boaz, and David Hendin. “Further Remarks on Coins in Circulation during the Bar-Kokhba War: Te’omim Cave and Horvat ‘Ethri Hoards.” Pages 215–28 in Judaea and Rome in Coins: 65 BCE–135 CE; Papers Presented at the International Conference Hosted by Spink, 13th–14th September 2010. Edited by David M. Jacobson and Nikos Kokkinos. London: Institute of Jewish Studies UCL; Spink, 2012.
+1. First Revolt 1
+2. Second Revolt 3

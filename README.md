@@ -26,7 +26,12 @@ Places:
 Dura-Europos
 Bellinger, the Excavations at Dura-Europos Conducted by Yale University and the French Academy of Inscriptions and Letters; Final Report, VI: The Coins. Edited by M.I. Rostovtzeff, A.R. Bellinger, F.E. Brown, N.P. Toll, and C.B. Welles. New Haven, CT: Yale University Press, 1949.
 Hashmonean: 36
+    A. JH 3
+    B. AJ 11
+    C. Uncertain 22
 Herodean: 7
+    A. Archelaus 2
+    B. Agrippa I 5
 First Revolt: 4
 
 Qiryat Sefer

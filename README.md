@@ -31,8 +31,26 @@ First Revolt: 4
 
 Qiryat Sefer
 Bijovsky, Gabriela. “The Coins from Khirbet Badd ʿIsa – Qiryat Sefer.” Pages 243–300 in The Land of Benjamin. Edited by Yitzhak Magen, Donald T. Ariel, Gabriela Bijovsky, Yoav Tzionit, and Orna Sirkis. Jerusalem: Staff Officer of Archaeology – Civil Admi- nistration of Judea and Samaria; Israel Antiquities Authority, 2004.
-Hashmonean: 23
-Herodians: 16
+Hashmonean: 24
+    A. JH 2
+    B. AJ 13
+    C. Uncertain 7
+    D. MA 2
+Herodians: 18
+    A. Herod I 4
+    B. Philip 1
+    C. Agrippa I 11
+    D. Agrippa II 1
+    E. Archelaus 1
 Procurators: 5
+    A. PP 3
+    B. AF 4
+    C. PF 1
+    D. Coponius 1
+    E. Uncertain 1
+    F. VG 1
+
+
 First Revolt: 6
+    A. Year 2 6
 Second Revolt: 4

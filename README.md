@@ -9,7 +9,7 @@ Currently we envision these chronological types:
     A. Herod I
     B. Herod Archelaus
     C. Herod Antipas
-    D. Herod Philip II
+    D. Herod Philip
     E. Agrippa I
     F. Agrippa II
 3. Procurators
@@ -18,7 +18,7 @@ Currently we envision these chronological types:
     C. Valerius Gratus
     D. Pontius Pilate
     E. Antonius Felix
-    F. Pocius Festus
+    F. Porcius Festus
 3. First Revolt
 4. Second Revolt
 

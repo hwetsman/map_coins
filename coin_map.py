@@ -16,7 +16,7 @@ def Get_Lat_Long(x, y, israel_lat_fudge, isreal_long_fudge):
     return lat, long
 
 
-coiners=['John Hyrcanus I','Alexander Jannaeus','Matityahu Antigonus','Herod I',
+coiners=['John Hyrcanus I','Aristobulus I','Alexander Jannaeus','Matityahu Antigonus','Herod I',
 'Herod Archelaus','Herod Antipas','Herod Philip','Herod Agrippa I','Herod Agrippa II',
 'Coponius','Marcus Ambivulus','Valerius Gratus','Pontius Pilate','Antonius Felix',
 'Porcius Festus','First Revolt','Second Revolt']
@@ -62,6 +62,7 @@ m = folium.Map(location=[31.77555556, 35.23527778], zoom_start=zlevel,
 mapping_df = coin_df.groupby('Site')['Number'].sum().reset_index()
 for i, r in mapping_df.iterrows():
     name = mapping_df.loc[i, 'Site']
+    st.write(f'A{name}A')
     lat = float(site_df.loc[site_df.Name==name,'Lat'].values[0])
     long = float(site_df.loc[site_df.Name==name, 'Long'].values[0])
     number = mapping_df.loc[i,'Number']

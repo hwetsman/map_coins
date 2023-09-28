@@ -68,3 +68,28 @@ Horvat ‘Ethri (lat 31.649236N, long 34.972262E)
 Zissu, Boaz, and David Hendin. “Further Remarks on Coins in Circulation during the Bar-Kokhba War: Te’omim Cave and Horvat ‘Ethri Hoards.” Pages 215–28 in Judaea and Rome in Coins: 65 BCE–135 CE; Papers Presented at the International Conference Hosted by Spink, 13th–14th September 2010. Edited by David M. Jacobson and Nikos Kokkinos. London: Institute of Jewish Studies UCL; Spink, 2012.
 1. First Revolt 1
 2. Second Revolt 3
+
+Karpass Peninsula (35.4999995,34.25)
+Harvey, Craig A. “A Possible Hoard of Judaean and Nabataean Coins from Cyprus.” American Journal of Numismatics (Second Series) 27 (2015): 155–177.
+1. Hasmonean
+    A. JH 3
+    B. Aristobulus I 1
+    C. AJ 6
+2. Herodian
+    E. Agrippa I 8
+3. Procurator
+    A. uncertain 1
+    B. Marcus Ambibulus 1
+    C. Valerius Gratus 6
+    D. Pontius Pilate 9
+    E. Antonius Felix 2
+    F. Porcius Festus 10
+4. First Revolt 6
+
+Paphos (34.7568404,32.4036729)
+Michaelidou-Nicolaou, I. 1993. Four Ptolemaic/Roman hoards from Cyprus. NC
+153: 11–29.
+1. Herodian
+    A. Herod Archelaus 1
+2. Procurator
+    B. Valerius Gratus 1

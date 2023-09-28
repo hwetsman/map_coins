@@ -93,3 +93,14 @@ Michaelidou-Nicolaou, I. 1993. Four Ptolemaic/Roman hoards from Cyprus. NC
     A. Herod Archelaus 1
 2. Procurator
     B. Valerius Gratus 1
+
+Athens Agora
+Kroll John H. and Alan S. Walker. The Athenian Agora: Results of Excavations Conducted
+by the American School of Classical Studies at Athens; Vol. XXVI: The Greek Coins.
+Princeton, NJ: The American School of Classical Studies at Athens, 1993.
+1. Hashmonean
+    A. Alexander Jannaeus 1
+2. Herodian
+    A. Herod Archelaus 1
+    B. Herod Agrippa I 2
+3. First Revolt 1

@@ -104,3 +104,31 @@ Princeton, NJ: The American School of Classical Studies at Athens, 1993.
     A. Herod Archelaus 1
     B. Herod Agrippa I 2
 3. First Revolt 1
+
+London (51.5161316,-0.0969792)
+Eshel H., Zissu B. and Barkay G., 2010. Sixteen Bar Kokhba Coins from Roman Sites in Europe. in: D. Barag and B. Zissu (eds.) Studies in Honour of Arnold Spaer [Israel Numismatic Journal 17]. pp. 91-97
+1. Second Revolt 1
+
+Vienna (48.2099708,16.3655454)
+Eshel H., Zissu B. and Barkay G., 2010. Sixteen Bar Kokhba Coins from Roman Sites in Europe. in: D. Barag and B. Zissu (eds.) Studies in Honour of Arnold Spaer [Israel Numismatic Journal 17]. pp. 91-97
+1. Second Revolt 1
+
+Carnuntum (48.1113122, 16.8675059)
+Eshel H., Zissu B. and Barkay G., 2010. Sixteen Bar Kokhba Coins from Roman Sites in Europe. in: D. Barag and B. Zissu (eds.) Studies in Honour of Arnold Spaer [Israel Numismatic Journal 17]. pp. 91-97
+1. Second Revolt 9
+
+Brigetio(Szony) (47.732024,18.1974101)
+Eshel H., Zissu B. and Barkay G., 2010. Sixteen Bar Kokhba Coins from Roman Sites in Europe. in: D. Barag and B. Zissu (eds.) Studies in Honour of Arnold Spaer [Israel Numismatic Journal 17]. pp. 91-97
+1. Second Revolt 2
+
+Ilisua (47.219815,24.0910541)
+Eshel H., Zissu B. and Barkay G., 2010. Sixteen Bar Kokhba Coins from Roman Sites in Europe. in: D. Barag and B. Zissu (eds.) Studies in Honour of Arnold Spaer [Israel Numismatic Journal 17]. pp. 91-97
+1. Second Revolt 1
+
+Pojejena (44.747176, 21.6625527)
+Eshel H., Zissu B. and Barkay G., 2010. Sixteen Bar Kokhba Coins from Roman Sites in Europe. in: D. Barag and B. Zissu (eds.) Studies in Honour of Arnold Spaer [Israel Numismatic Journal 17]. pp. 91-97
+1. Seconnd Revolt 1
+
+Sarmizegetusa (45.5132335,22.7814388)
+Eshel H., Zissu B. and Barkay G., 2010. Sixteen Bar Kokhba Coins from Roman Sites in Europe. in: D. Barag and B. Zissu (eds.) Studies in Honour of Arnold Spaer [Israel Numismatic Journal 17]. pp. 91-97
+1. Second Revolt 1

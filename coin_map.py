@@ -69,12 +69,13 @@ for i, r in mapping_df.iterrows():
     st.write(f'A{name}A')
     lat = float(site_df.loc[site_df.Name==name,'Lat'].values[0])
     long = float(site_df.loc[site_df.Name==name, 'Long'].values[0])
+    ref = site_df.loc[site_df.Name==name, 'Ref'].values[0]
     number = mapping_df.loc[i,'Number']
     normalized_number = number/total
     rgba = cmap(normalized_number)
     color = matplotlib.colors.to_hex(rgba)
     marker = folium.CircleMarker(
-        location=[lat, long],popup=name,tooltip=f'{name} \nLat:{lat} \nLong:{long}',
+        location=[lat, long],popup=name,tooltip=f'{name}, {ref}',
         color=color,fill=True,fill_color=color, radius=1).add_to(m)
 # add Western Wall
 marker = folium.CircleMarker(location=[31.7767, 35.2345],

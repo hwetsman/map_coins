@@ -16,7 +16,7 @@ def Get_Lat_Long(x, y, israel_lat_fudge, isreal_long_fudge):
     return lat, long
 
 
-coiners=['John Hyrcanus I','Aristobulus I','Alexander Jannaeus','Matityahu Antigonus','Herod I',
+coiners=['John Hyrcanus I','Aristobulus I','Alexander Jannaeus','John Hyrcanus II','Matityahu Antigonus','Herod I',
 'Herod Archelaus','Herod Antipas','Herod Philip','Herod Agrippa I','Herod Agrippa II',
 'Coponius','Marcus Ambivulus','Valerius Gratus','Pontius Pilate','Antonius Felix',
 'Porcius Festus','First Revolt','Second Revolt']

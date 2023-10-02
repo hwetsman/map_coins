@@ -136,3 +136,7 @@ Eshel H., Zissu B. and Barkay G., 2010. Sixteen Bar Kokhba Coins from Roman Site
 Mellia(35.2862824,-2.9445265)
 Barrio, Claudio. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjn9oCk5deBAxW6kmoFHXhcB6QQFnoECBgQAQ&url=https%3A%2F%2Fdialnet.unirioja.es%2Fdescarga%2Farticulo%2F1974489.pdf&usg=AOvVaw1QvRQjVfcdDuJfQTAnrT0o&opi=89978449
 1. Valerius Gratus 1
+
+Nisibus(37.0770121,41.205492) - Possible
+YA'AKOV MESHORER. NABATAEAN COINS. Qedem, Vol. 3, NABATAEAN COINS (1975), pp. 1-112 (125 pages)
+John Hyrcanus II 1 - Only possible. Maybe he mentions that a JHII coin was also found in a hord where a Nabatean coin was found that he references to the Nisibus report H. Seyrig: Trésor monétaire de Nisibe, RN XVII (1955), p. 94, No. 83.
